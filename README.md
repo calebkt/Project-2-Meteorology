@@ -16,6 +16,8 @@ Images provided below are considered not rainy if precipitation rate is less the
 >> ![w_OOSM](https://github.com/calebkt/Project-2-Meteorology/blob/master/P2_Pictures/w_OOSM.PNG)
 > ![r_OOSM](https://github.com/calebkt/Project-2-Meteorology/blob/master/P2_Pictures/r_OOSM.PNG)
 
+___________________________________________________________________________________________________________
+
 **Plot: Case 1- Wind and Rain (Absent) vs Time** *Left OSSM, Right OOSM*
 > ![absent_OSSM](https://github.com/calebkt/Project-2-Meteorology/blob/master/P2_Pictures/absent_OSSM.PNG)
 > ![absent_OOSM](https://github.com/calebkt/Project-2-Meteorology/blob/master/P2_Pictures/absent_OOSM.PNG)
@@ -31,11 +33,12 @@ Images provided below are considered not rainy if precipitation rate is less the
 **Plot: Case 4- Rainy and Windy vs Time**
 > ![RvsW_OSSM](https://github.com/calebkt/Project-2-Meteorology/blob/master/P2_Pictures/RvsW_OSSM.PNG)
 > ![RvsW_OOSM](https://github.com/calebkt/Project-2-Meteorology/blob/master/P2_Pictures/RvsW_OOSM.PNG)
-
+____________________________________________________________________________________________________________
 # Analyzing Average Wind Speeds vs Months
 **Monthly Averages for Wind Speed** *OSSM (Top), OOSM (Bottom)*
 > ![avgW_OSSM](https://github.com/calebkt/Project-2-Meteorology/blob/master/P2_Pictures/avgW_OSSM.PNG)
 > ![avgW_OOSM](https://github.com/calebkt/Project-2-Meteorology/blob/master/P2_Pictures/avgW_OOSM.PNG)
+
 
 # Analyzing Average Rain Rates vs Months
 **Monthly Averages for Rain Rate** *OSSM (Top), OOSM (Bottom)*
