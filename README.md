@@ -45,4 +45,9 @@ ________________________________________________________________________________
 > ![avgR_OSSM](https://github.com/calebkt/Project-2-Meteorology/blob/master/P2_Pictures/avgR_OSSM.PNG)
 > ![avgR_OOSM](https://github.com/calebkt/Project-2-Meteorology/blob/master/P2_Pictures/avgR_OOSM.PNG)
 
+__
+# Cross Correlation
+> ![w_CC](https://github.com/calebkt/Project-2-Meteorology/blob/master/P2_Pictures/w_cc.PNG)
+> ![base_cc](https://github.com/calebkt/Project-2-Meteorology/blob/master/P2_Pictures/base_cc.PNG)
+
 
