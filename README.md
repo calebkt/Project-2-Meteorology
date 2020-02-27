@@ -39,15 +39,24 @@ ________________________________________________________________________________
 > ![avgW_OSSM](https://github.com/calebkt/Project-2-Meteorology/blob/master/P2_Pictures/avgW_OSSM.PNG)
 > ![avgW_OOSM](https://github.com/calebkt/Project-2-Meteorology/blob/master/P2_Pictures/avgW_OOSM.PNG)
 
+Starting with the lowest mean wind rate, the comparisons are different. For OSSM, the lowest is within June; while for OOMS, the lowest is within October. The highest on the other hand is within July for OSSM, and November for OOMS. 
 
 # Analyzing Average Rain Rates vs Months
 **Monthly Averages for Rain Rate** *OSSM (Top), OOSM (Bottom)*
 > ![avgR_OSSM](https://github.com/calebkt/Project-2-Meteorology/blob/master/P2_Pictures/avgR_OSSM.PNG)
 > ![avgR_OOSM](https://github.com/calebkt/Project-2-Meteorology/blob/master/P2_Pictures/avgR_OOSM.PNG)
 
-__
+Shown here, the lowest mean is within April for OOSM, and May for OSSM. As a range, this translates that lowest average rain rate was between April to May. The highest rain rate was within December for both OOSM and OSSM. Both have the highest rain rate within the Winter, however a low spike is in October which is unique to this time set. A ranking would be Winter, Fall, Spring then Summer for both locations. 
+
 # Cross Correlation
 > ![w_CC](https://github.com/calebkt/Project-2-Meteorology/blob/master/P2_Pictures/w_cc.PNG)
+> ![r_CC](https://github.com/calebkt/Project-2-Meteorology/blob/master/P2_Pictures/r_cc.PNG)
+
+In plotting cross-correlation for wind speed between both sites, the max correlation is at 0.6314. With this, the lag is zero as the data is highly similar and correlated to one another. 
+
 > ![base_cc](https://github.com/calebkt/Project-2-Meteorology/blob/master/P2_Pictures/base_cc.PNG)
+> ![prep_cc](https://github.com/calebkt/Project-2-Meteorology/blob/master/P2_Pictures/prep_cc.PNG)
 
+In plotting the cross correlation for rain rate, max correlation is at 0.3516. With this, the lag is at 341; equal to 124 days.
 
+This data expresses that OSSM and OOSM share similar wind speeds throughout the year. Rain rates however differ slightly with a vastly larger time lag then wind speed. In this case, correlation between wind speed and rain rate in terms of time lag based within regard towards rain rate has a lower correlation. 
